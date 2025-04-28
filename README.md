@@ -1,2 +1,2 @@
 # nextjs
-My nextjs first project 
+My first project with NEXT.JS  
